@@ -6,7 +6,7 @@
 
 【確認グラフィックハードウェア】
 ・GEFORCE GTX 16 SERIES
-・NVIDIA GetForce RTX
+・NVIDIA GeForce RTX
 
 【開発環境】
 ・Visual Studio 2017
@@ -35,7 +35,6 @@ Effect.cpp
 武器強化ステージの際のコメントの追加
 【特に力を入れている箇所】
 505～516 武器強化の時のコメントを消す処理
-
 
 Effect.h
 各アイテム番号の追加

@@ -6,7 +6,7 @@
 
 【確認グラフィックハードウェア】
 ・GEFORCE GTX 16 SERIES
-・NVIDIA GetForce RTX
+・NVIDIA GeForce RTX
 
 【制作人数】
 ・3人で制作しました

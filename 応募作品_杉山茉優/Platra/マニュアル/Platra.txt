@@ -6,7 +6,7 @@
 
 【確認グラフィックハードウェア】
 ・GEFORCE GTX 16 SERIES
-・NVIDIA GetForce RTX
+・NVIDIA GeForce RTX
 
 【開発環境】
 ・Visual Studio 2017
